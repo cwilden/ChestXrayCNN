@@ -1,7 +1,7 @@
 ################################################################################
 #
 # File
-#    CS 6301 Speial Topics: Convolutional Neural Networks Final Project
+#    CS 6301 Special Topics: Convolutional Neural Networks Final Project
 #    ChestXCNN.py
 #    BUILD THE CNN NETWORK THAT CLASSIFIES CHEST X RAY IMAGES
 #
